@@ -1,6 +1,6 @@
 ## Demo ##
 
-[Page about Claude Monet](https://github.com/KivilevaXenia/KivilevaXenia.github.io/blob/master/claude-monet/index.html)
+[Page about Claude Monet](https://kivilevaxenia.github.io/claude-monet/)
 
 <br />
 
